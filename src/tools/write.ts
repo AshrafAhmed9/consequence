@@ -1,5 +1,5 @@
 import type { Actor } from "../cf-foundation/actor.js";
-import { defineTool } from "webmcp-kit";
+import { defineTool } from "@ashraf009/webmcp-kit";
 import type { ApplicationStore } from "../lib/store.js";
 import { APPLICATION_SCHEMA, findField } from "../../seed/schema.js";
 import type { NavState } from "./read.js";

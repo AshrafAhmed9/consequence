@@ -1,4 +1,4 @@
-import { defineTool } from "webmcp-kit";
+import { defineTool } from "@ashraf009/webmcp-kit";
 import type { ApplicationStore } from "../lib/store.js";
 import { blockingItems, openQuestions, visibleSections } from "../shared/derive.js";
 import { APPLICATION_SCHEMA, findField } from "../../seed/schema.js";

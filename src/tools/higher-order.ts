@@ -1,5 +1,5 @@
 import type { Actor } from "../cf-foundation/actor.js";
-import { defineTool, withConfirmation, type ConfirmFn } from "webmcp-kit";
+import { defineTool, withConfirmation, type ConfirmFn } from "@ashraf009/webmcp-kit";
 import type { ApplicationStore } from "../lib/store.js";
 import { checkConsistency, openQuestions, visibleSections } from "../shared/derive.js";
 

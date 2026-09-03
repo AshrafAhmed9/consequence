@@ -1,5 +1,5 @@
 import { useState } from "react";
-import type { ActivityLog, DefinedTool } from "webmcp-kit";
+import type { ActivityLog, DefinedTool } from "@ashraf009/webmcp-kit";
 import { APPLICATION_SCHEMA } from "../../seed/schema.js";
 import type { Application } from "../shared/types.js";
 
